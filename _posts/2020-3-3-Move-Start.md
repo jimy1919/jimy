@@ -1,8 +1,8 @@
-# Visionist with a Fourier twist
+# Vision with a Fourier twist
 
 
 ---
-layout: Source
+layout: post
 title: display, stream, spectral infohub
 ---
 
